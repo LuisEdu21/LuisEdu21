@@ -1,4 +1,4 @@
-### Opa! Tudo bom ? 👋
+### Opa ! Tudo bom ? 👋 
 - 🔭 Hoje Trabalho com Back-end
 - 🌱 Estou estudando Dorker
 - 😄 Pronouns: ele/dele
