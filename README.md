@@ -1,6 +1,6 @@
 ### Opa ! Tudo bom ? 👋 
 - 🔭 Hoje Trabalho com Back-end
-- 🌱 Estou estudando Dorker
+- 🌱 Estou estudando Android
 - 😄 Pronouns: ele/dele
 
 <div align="center">
