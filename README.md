@@ -1,7 +1,6 @@
 ### Opa ! Tudo bom ? 👋 
 - 🔭 Hoje Trabalho com Back-end
 - 🌱 Estou estudando Android
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/LuisEdu21">
