@@ -1,6 +1,6 @@
 ### Opa ! Tudo bom ? 👋 
 - 🔭 Hoje Trabalho com Back-end
-- 🌱 Estou estudando Android
+- 🌱 Estou estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/LuisEdu21">
