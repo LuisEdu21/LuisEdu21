@@ -35,12 +35,6 @@ Desenvolvedor **Back-end** apaixonado por lógica, automação e construção de
   <img src="https://skillicons.dev/icons?i=python,java,c,js,nodejs,postgres,docker,git,linux,ps" alt="Tecnologias" />
 </div>
 
-## 📈 Atividades
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisEdu21&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Gráfico de atividade" />
-</div>
-
 <div align="center">
   
 **"Code. Learn. Repeat."**
